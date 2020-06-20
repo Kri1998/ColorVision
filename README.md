@@ -33,6 +33,6 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_firs
 Use svg file with css
 
 https://www.sitepoint.com/community/t/svg-as-external-file-and-css/196311
-----------------------------------------------------------------------------------
 
 #For Using the extension just load the content.js file in load temproary add-ons in Mozilla web browser
+-------------------------------------------------------------------------------------------------------
