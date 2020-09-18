@@ -2,7 +2,7 @@
 
 This help visually impaired one's to get better color perception
 
-EXtension for Mozilla(Firefox)
+Extension for Mozilla(Firefox)
 
 TITLE:COLORVISION
 
